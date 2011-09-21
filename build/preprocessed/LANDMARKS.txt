@@ -1,0 +1,40 @@
+12.935160,77.536083,Gate,null,1,Building
+12.935133,77.535807,A,null,2,Road
+12.935102,77.535538,B,null,3,Road
+12.935069,77.535308,C,null,4,Road
+12.935055,77.535181,D,null,5,Road
+12.935238,77.535171,A-Block,null,6,Building
+12.935049,77.534997,College Canteen,null,7,Building
+12.935028,77.535100,D-E,null,5,Road
+12.934997,77.534908,E,null,8,Road
+12.934750,77.535020,C-Block,null,9,Building
+12.934502,77.535130,F,null,10,Road
+12.934255,77.535242,G,null,11,Road
+12.933965,77.535368,D-Block,null,12,Building
+12.933715,77.535480,H,null,13,Road
+12.933490,77.535590,F-Block,null,14,Building
+12.933435,77.535363,I,null,15,Road
+12.933354,77.535168,J,null,16,Road
+12.933489,77.534983,K,null,17,Road
+12.933536,77.534805,Boys Hostel,null,18,Building
+12.933695,77.534718,L,null,19,Road
+12.933920,77.534725,M,null,20,Road
+12.934190,77.534715,N,null,21,Road
+12.934351,77.534731,O,null,22,Road
+12.934433,77.534621,P,null,23,Road
+12.934409,77.534532,Tech Block,null,24,Building
+12.934445,77.534304,Cricket Ground,null,25,Building
+12.934450,77.533348,Cricket Pitch,null,26,Building
+12.934585,77.534565,Q,null,27,Road
+12.934827,77.534442,R,null,28,Road
+12.935004,77.534477,S(Nescafe Bar),null,29,Building
+12.935026,77.534220,Car Parking,null,30,Building
+12.935005,77.534680,T,null,31,Road
+12.935536,77.535300,U,null,32,Road
+12.935685,77.535016,V,null,33,Road
+12.935730,77.534790,W,null,34,Road
+12.935713,77.534634,Campus Store,null,35,Building
+12.935645,77.534560,X,null,36,Road
+12.935510,77.534487,Y,null,37,Road
+12.935295,77.534503,Z,null,38,Road
+12.935100,77.534535,@,null,39,Road

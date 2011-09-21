@@ -1,0 +1,9 @@
+MIDlet-1: firstUI,/images.jpg,firstUI
+MIDlet-2: Util, , Util
+MIDlet-Jar-Size: 201973
+MIDlet-Jar-URL: first.jar
+MIDlet-Name: first
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
